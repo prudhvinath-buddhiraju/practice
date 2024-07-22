@@ -2,3 +2,4 @@
 it is for topic creation
 kafka is an event streaming platform
 brokers are containers for topic
+replicas are for backup
