@@ -1,1 +1,2 @@
 this is java programming language
+it is used for developing standalone and enterprise apps
