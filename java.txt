@@ -1,2 +1,5 @@
 this is java programming language
+
 it has spring framework
+
+it is used for developing standalone and enterprise apps
